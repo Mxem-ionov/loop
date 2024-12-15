@@ -1,6 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-
         for (int i = 1; i <= 10; i++) {
             System.out.println(i);
         }
@@ -49,8 +48,9 @@ public class Main {
         System.out.println("Задача 9 конец");
         for (int i = 1; i <= 10; i++) {
             int b = i * 2;
-            System.out.println("2*" + i + "=" + b);
+            System.out.println("2 * " + i + " = " + b);
         }
         System.out.println("Задача 10 конец");
+
     }
 }
